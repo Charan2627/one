@@ -131,7 +131,7 @@
                 <version>2.2</version>
 
                 <configuration>
-                    <url>http://16.16.76.131:8080/manager/text</url>
+                    <url>http://16.171.194.126:8080/manager/text</url>
                     <server>tomcat-server</server>
                     <path>/myweb</path>
                 </configuration>
