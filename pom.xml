@@ -54,7 +54,7 @@
         </snapshotRepository>
     </distributionManagement>
     <build>
-        <finalName>myweb</finalName>
+        
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
